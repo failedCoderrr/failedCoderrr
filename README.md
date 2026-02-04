@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑 Linktr - https://linktr.ee/pankajkoree<br><br>🧑Portfolio - https://pankajkoree.vercel.app/<br><br>🧑Portfolio - https://pankajkoree.netlify.app/<br><br>🔭I'm currently working on - test version of my upcoming project<br>☘️I'm currently learning - proper way of bulidng project.
+🧑 Linktr - https://linktr.ee/pankajkoree<br><br>🧑Portfolio - https://pankajkoree.vercel.app/<br><br>🧑Portfolio - https://pankajkoree.netlify.app/<br><br>🔭I'm currently working on - test version of my upcoming project.
 
 
 ## 🌐 Socials:
